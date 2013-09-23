@@ -1,11 +1,9 @@
-/*** ***/
-This repository will work through in creating my own Blog using django
+This repository will work through in creating my own blog using django
 
-TODO
-*comment
-*Tagging
-*category
-*RSS
-*Date based archives
-
+## TODO
++ Comment
++ Tagging
++ Rss
++ Category
++ Date based archives
 
